@@ -1,0 +1,219 @@
+body{
+    margin: none;
+    background-color: rgb(3, 3, 3);
+}
+.container{
+    display: inline;
+    flex: none;
+    float: none;
+    justify-content: space-between;
+}
+.nav-link{
+    color: rgb(236, 238, 120);
+}
+.bobocenter{
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    left: 50%;
+    transform: translate(-50%- ,50%);
+}
+.image{
+    margin-left: 35%;
+    width: 20%;
+}
+img.logo{
+    width: 5rem;
+    height: 5rem;
+}
+.logofond{
+    width: 10%;
+    height: 10px;
+    image-orientation: center;
+}  
+
+.myvideo {
+    display: flex;
+    justify-content: center;
+    position: inherit;
+    right: 0;
+    height: 40em;
+    width: 100%;
+    object-fit: cover;
+}
+.content{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%);
+    text-align: center;
+    color: rgb(255, 192, 241);
+}
+p.texte{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(128, 120, 238);
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+#tt{
+    min-width: 100px;
+    min-height: 20px;
+}
+.redi{
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    margin-top: none;
+    margin-bottom: none;
+}
+.redi1{
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    margin-top: 30em;
+    margin-bottom: none;
+}
+#footer{
+    padding: 0em;
+    height: 0em;
+    margin-bottom: none;
+    margin-top: none;
+    margin-left: none;
+    margin-right: none;
+    display: flex end;
+    text-align: center;
+    justify-content: center;
+}
+.iconanim{
+    background-size: 0%;
+    background-image: black;
+    width: 5em;
+    height: 5em;
+}
+h1{
+    color: rgb(236, 238, 120);
+    font-weight: 2px;
+}
+p{
+    color: white;
+}
+.text-center{
+    align-items: center;
+    display: flex;
+}
+
+.bonus{
+
+    margin-top: 10em;
+}
+h3{
+    margin-top: 5em;
+    justify-content: space-around;
+    color: rgb(236, 238, 120); 
+    display: flex;
+    justify-content: center;
+}
+embed{
+    border: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+.logofm{
+    margin-bottom: -20em;
+    margin-top: 10em;
+    margin-left: 22em;
+    width: 5em;
+    height: 17em;
+}
+.logogta{
+    margin-top: 10em;
+    margin-left: 22em;
+    width: 15em;
+}
+
+
+
+
+
+
+
+.rr{
+    color: rgb(128, 120, 238);
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    text-align: center;  
+    font-weight: 50px;
+    font-size: 20px;
+}
+br{
+    text-decoration: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.myvideotete{
+    margin-top: 0em;
+}
+.vid{
+    margin-top: 0em;
+}
+
+
+
+#carouselExemple {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 120px;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
+
+.titlegallery{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
